@@ -1,0 +1,38 @@
+[
+    {
+        "name": "ping",
+        "description": "Проверить пинг с сервером"
+    },
+    {
+        "name": "embed",
+        "description": "Показать баннер"
+    },
+    {
+        "name": "hilo",
+        "description": "Угадай число"
+    },
+    {
+        "name": "tictactoe",
+        "description": "Камень-ножницы-бумага"
+    },
+    {
+        "name": "roll",
+        "description": "Рандомное число"
+    },
+    {
+        "name": "bal",
+        "description": "Узнать свой баланс"
+    },
+    {
+        "name": "profit",
+        "description": "Добавить к балансу +100"
+    },
+    {
+        "name": "selfdestruct",
+        "description": "Обнуление баланс"
+    },
+    {
+        "name": "helpme",
+        "description": "Помощь"
+    }
+]
